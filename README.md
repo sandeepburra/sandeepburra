@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I am currently working in a datascience team of cyient.I enjoy learning emerging technologies and new developments in my field.
+I am currently working as a Data Science Consultant in EY GDS.I enjoy learning emerging technologies and new developments in my field.
 
 ### Things I'm good at 🔥
 
@@ -9,7 +9,7 @@ Natural Language Processing, Image Processing, Machine Learning, Deep Learning, 
 
 ***Languages:*** Python, SQL, VBA.
 
-***Framework:*** Django.
+***Framework:*** Flask.
 
 ***Libraries & Tools:*** NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, Keras, NLTK.
 
