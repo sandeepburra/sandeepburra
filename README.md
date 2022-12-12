@@ -14,8 +14,4 @@ Natural Language Processing, Image Processing, Machine Learning, Deep Learning, 
 ***Libraries & Tools:*** NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, Keras, NLTK.
 
 
-### 📫 How to reach me: ...
 
-mailto: sandeepgd53@gmail.com
-
-Phone: 9908506281
